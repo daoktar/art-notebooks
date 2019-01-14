@@ -1,1 +1,1 @@
-# art-notebooks
+# lecture notes and other stuff
